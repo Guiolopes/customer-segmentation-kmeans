@@ -158,7 +158,7 @@ Sempre em evolução, desenvolvendo projetos práticos com **Python**, análise 
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Guiolopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiolopes)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](guilhermelopes10065@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-guilhermelopes10065@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermelopes10065@gmail.com)
 
 <br/>
 

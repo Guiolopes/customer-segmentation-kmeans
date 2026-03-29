@@ -70,8 +70,6 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 
 ## ⚡ Funcionalidades
 
-<div align="center">
-
 | Funcionalidade | Descrição |
 |:---|:---|
 | 📂 Upload de arquivo CSV | Carregue sua base de dados diretamente na interface |

@@ -74,13 +74,13 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   📂  Upload de arquivo CSV           → Dados de entrada         │
-│   🔄  Processamento automático        → Pipeline de ML           │
-│   🧠  Clusterização com K-Means       → Grupos identificados     │
-│   📊  Visualização dos resultados     → Top 10 registros         │
+│                                                                 │
+│   📂  Upload de arquivo CSV           → Dados de entrada        │
+│   🔄  Processamento automático        → Pipeline de ML          │
+│   🧠  Clusterização com K-Means       → Grupos identificados    │
+│   📊  Visualização dos resultados     → Top 10 registros        │
 │   🖥️  Interface sem necessidade de código → Acessível a todos   │
-│                                                                   │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

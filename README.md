@@ -154,11 +154,11 @@ Sempre em evolução, desenvolvendo projetos práticos com **Python**, análise 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiolopes)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Guiolopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiolopes)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](guilhermelopes10065@gmail.com)
 
 <br/>
 

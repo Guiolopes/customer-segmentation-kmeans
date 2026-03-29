@@ -79,9 +79,10 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 | 🧠 Clusterização com K-Means | Agrupamento inteligente por similaridade |
 | 📊 Visualização dos resultados | Exibição dos 10 primeiros registros com clusters |
 | 🖥️ Interface interativa | Simples e acessível, sem necessidade de código |
-```</div>
 
----
+</div>
+
+<div align="center">
 
 ## 🚀 Como Executar
 
@@ -90,7 +91,6 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 git clone https://github.com/Guiolopes/social-cluster.git
 cd social-cluster
 ```
-
 ### 2️⃣ Crie o ambiente virtual
 ```bash
 python -m venv venv

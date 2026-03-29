@@ -91,6 +91,10 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 git clone https://github.com/Guiolopes/social-cluster.git
 cd social-cluster
 ```
+</div>
+
+<div align="center">
+
 ### 2️⃣ Crie o ambiente virtual
 ```bash
 python -m venv venv
@@ -101,21 +105,29 @@ source venv/bin/activate
 # Windows
 venv\Scripts\activate
 ```
+</div>
 
+<div align="center">
 ### 3️⃣ Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
+</div>
 
+<div align="center">
 ### 4️⃣ Execute a aplicação
 ```bash
 streamlit run app.py
 ```
+</div>
 
+<div align="center">
 > 🌍 Acesse em: **http://localhost:8501**
 
 ---
+</div>
 
+<div align="center">
 ## 🔮 Roadmap — Próximas Melhorias
 
 ```
@@ -127,7 +139,7 @@ streamlit run app.py
  🔲 Comparação entre algoritmos (DBSCAN, Agglomerative)
  🔲 Deploy na nuvem via Streamlit Cloud
 ```
-
+</div>
 ---
 
 <div align="center">

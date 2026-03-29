@@ -66,11 +66,11 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 
 </div>
 
-
-<div align="center">
 ---
 
 ## ⚡ Funcionalidades
+
+<div align="center">
 
 | Funcionalidade | Descrição |
 |:---|:---|
@@ -82,7 +82,7 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 
 </div>
 
-<div align="center">
+---
 
 ## 🚀 Como Executar
 
@@ -91,9 +91,6 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 git clone https://github.com/Guiolopes/social-cluster.git
 cd social-cluster
 ```
-</div>
-
-<div align="center">
 
 ### 2️⃣ Crie o ambiente virtual
 ```bash
@@ -105,29 +102,21 @@ source venv/bin/activate
 # Windows
 venv\Scripts\activate
 ```
-</div>
 
-<div align="center">
 ### 3️⃣ Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
-</div>
 
-<div align="center">
 ### 4️⃣ Execute a aplicação
 ```bash
 streamlit run app.py
 ```
-</div>
 
-<div align="center">
 > 🌍 Acesse em: **http://localhost:8501**
 
 ---
-</div>
 
-<div align="center">
 ## 🔮 Roadmap — Próximas Melhorias
 
 ```
@@ -139,7 +128,7 @@ streamlit run app.py
  🔲 Comparação entre algoritmos (DBSCAN, Agglomerative)
  🔲 Deploy na nuvem via Streamlit Cloud
 ```
-</div>
+
 ---
 
 <div align="center">
@@ -172,4 +161,3 @@ Sempre em evolução, desenvolvendo projetos práticos com **Python**, análise 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-

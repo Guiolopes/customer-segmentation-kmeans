@@ -66,6 +66,8 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 
 </div>
 
+
+<div align="center">
 ---
 
 ## ⚡ Funcionalidades
@@ -77,9 +79,7 @@ O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para seg
 | 🧠 Clusterização com K-Means | Agrupamento inteligente por similaridade |
 | 📊 Visualização dos resultados | Exibição dos 10 primeiros registros com clusters |
 | 🖥️ Interface interativa | Simples e acessível, sem necessidade de código |
-```
-
-</div>
+```</div>
 
 ---
 

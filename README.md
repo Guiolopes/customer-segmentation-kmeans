@@ -113,7 +113,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-> 🌍 Acesse em: **http://localhost:8501**
+> 🌍 Acesse em: **[https://customer-segmentation-kmeans-3xsn2esagbtrdisuedvwop.streamlit.app/]**
 
 ---
 

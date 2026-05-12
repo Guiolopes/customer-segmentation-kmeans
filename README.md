@@ -141,7 +141,7 @@ streamlit run app.py
 
 **`Estudante de Ciência de Dados · FIAP · 23 anos`**
 
-> *"Transformando dados em decisões — um projeto de cada vez."*
+> *"Transformando dados em decisões."*
 
 <br/>
 

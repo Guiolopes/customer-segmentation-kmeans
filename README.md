@@ -37,13 +37,13 @@
 <td width="50%">
 
 ### 🎯 O Problema
-Em um cenário onde **dados de comportamento digital** são cada vez mais estratégicos, identificar padrões de usuários em redes sociais pode transformar decisões de negócio — mas fazer isso manualmente é inviável em larga escala.
+Em um cenário onde **dados de comportamento digital** são cada vez mais estratégicos, identificar padrões de usuários em redes sociais pode transformar decisões de negócio mas fazer isso manualmente é inviável em larga escala.
 
 </td>
 <td width="50%">
 
 ### 💡 A Solução
-O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para segmentar automaticamente grupos de usuários com comportamentos semelhantes — e entrega isso em uma **interface web interativa**, sem necessidade de código.
+O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para segmentar automaticamente grupos de usuários com comportamentos semelhantes e entrega isso em uma **interface web interativa**, sem necessidade de código.
 
 </td>
 </tr>
